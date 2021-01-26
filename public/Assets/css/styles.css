@@ -1,0 +1,13 @@
+.contenido {
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    color: white;
+}
